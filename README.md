@@ -3,10 +3,11 @@
 This repository contains beginner-friendly Python projects built while learning Python:
 
 ## Projects Included
-- 🗣️ **ROBO SPEAKER** – Uses `pyttsx3` to convert text to speech
-- 🔢 **NUMBER GUESSING GAME** – A simple game where you guess a number
-- ❓ **QUIZ GAME** – A multiple-choice question game
-- ✊🖐✌️ **ROCK PAPER SCISSORS** – Classic game in Python
+- 🎮 **Choose Your Own Adventure Game (Easy)** – A text-based adventure game where choices shape your story.
+- 🔢 **NUMBER GUESSING GAME** – A simple game where you guess a number.
+- ❓ **QUIZ GAME** – A multiple-choice question game.
+- ✊🖐✌️ **ROCK PAPER SCISSORS** – Classic game in Python.
+- 🗣️ **ROBO SPEAKER** – Uses `pyttsx3` to convert text to speech.
 
 Each folder contains its own source code and files.
 
